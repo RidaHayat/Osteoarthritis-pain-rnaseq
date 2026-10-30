@@ -1,0 +1,5 @@
+g:Profiler date: 2026-10-30
+g:Profiler version: e114_eg62_p19_9dc92ac8
+DE genes submitted: 32
+Tested genes used as background: 29838
+Significant GO:BP / Reactome terms (FDR < 0.05): 4

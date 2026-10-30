@@ -1,0 +1,9 @@
+Comparison: Pain:Low vs Pain:High
+Samples: Pain:High = 5 ; Pain:Low = 5
+Genes retained after low-count filtering: 29912
+Genes with a non-missing test p-value: 29838
+Genes with BH-adjusted p-value < 0.05: 32
+Higher in Pain:Low among significant genes: 6
+Higher in Pain:High among significant genes: 26
+Input: RSEM expected counts rounded to nearest integer for DESeq2.
+Truncation sensitivity: BH-adjusted p < 0.05 for 30 genes.
